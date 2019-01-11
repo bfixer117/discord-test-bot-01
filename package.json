@@ -1,0 +1,11 @@
+{
+  "name": "test-bot-01",
+  "version": "0.0.1",
+  "description": "Test bot for discord made by bfixer117",
+  "main": "bot.js",
+  "author": "bfixer117",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^3.1.0"
+  }
+}
